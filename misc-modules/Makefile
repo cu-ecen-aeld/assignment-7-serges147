@@ -32,5 +32,3 @@ else
     obj-m := hello.o hellop.o seq.o jiq.o sleepy.o complete.o \
              silly.o faulty.o kdatasize.o kdataalign.o jit.o
 endif
-
-
